@@ -1,5 +1,6 @@
 set number
 set relativenumber
+set laststatus=2
 
 set expandtab
 set shiftwidth=4
